@@ -13,7 +13,7 @@
 Bookopedia is a place where you can read all your favourite books and comics and relieve your memories from the past. 
 
 ***
-!Bookopedia
+![Bookopedia-1](https://github.com/ishasachan/Bookopedia/assets/79162510/7708f618-5d53-4df5-a030-f602a7de412b)
 
 ## Problem Statement :
 The world of books is vast, and finding the right book to read can be overwhelming. Additionally, keeping track of one's reading progress and sharing opinions with like-minded individuals can be challenging. Bookopedia aims to solve these problems by providing a comprehensive book platform.
@@ -42,4 +42,5 @@ The world of books is vast, and finding the right book to read can be overwhelmi
 <a id="raw-url" href="https://github.com/ishasachan/Bookopedia/releases/download/v1/Bookopedia.apk">Download App</a>
 
 # Screenshots :
-!Bookopedia
+
+![Bookopedia-1](https://github.com/ishasachan/Bookopedia/assets/79162510/7708f618-5d53-4df5-a030-f602a7de412b)
