@@ -39,7 +39,7 @@ The world of books is vast, and finding the right book to read can be overwhelmi
 
 *You can Install and test latest Bookopedia app from below 👇* <br> 
 
-<a id="raw-url" href="https://github.com/ishasachan/Bookopedia/releases/download/v1/Bookopedia.apk">Download App</a>
+<a id="raw-url" href="https://github.com/ishasachan/Bookopedia/releases/download/v1/app-release.apk">Download App</a>
 
 # Screenshots :
 
